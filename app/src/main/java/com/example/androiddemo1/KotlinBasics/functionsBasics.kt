@@ -1,4 +1,4 @@
-package com.example.androiddemo1
+package com.example.androiddemo1.KotlinBasics
 
 fun main() {
     val sumOfTwoNumbers = addTwoIntegers(2,1);

@@ -6,6 +6,7 @@ fun main(){
     // While Loop
     // While loop executes a block of code repeatedly as long as a given condition is true
     while(condition) {
+        condition = false
         // code to be executed
     }
 
